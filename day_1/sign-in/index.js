@@ -3,8 +3,8 @@ const mongoose = require('mongoose');
 const express = require('express');
 const session = require('express-session');
 const bodyParser = require('body-parser');
-var path = require('path');
-
+const path = require('path');
+const pug = require('pug');
 const dbReady = mongoose.connect(process.env.dbURL, 
     {useNewUrlParser: true, useUnifiedTopology: true}, (err) => {
         if(err) {
