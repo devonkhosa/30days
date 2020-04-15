@@ -1,6 +1,6 @@
-# Day 1
+# Day 1 (Test, Not actual)
 
-This is execise 1 of a 30 day code challenge, where I will attempt to code one application a day.
+This is execise TEST of a 30 day code challenge, where I will attempt to code one application a day.
 
 # Sign in form
 
