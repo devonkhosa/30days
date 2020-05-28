@@ -1,5 +1,0 @@
-node_modules
-#secret files (dotenv)
-.env
-
-npm-debug.log
